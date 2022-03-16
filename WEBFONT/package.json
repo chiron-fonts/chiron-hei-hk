@@ -1,0 +1,23 @@
+{
+    "name": "chiron-hei-hk-webfont",
+    "version": "0.0.1",
+    "description": "Webfont version of Chiron Hei HK, a font specialized for Traditional Chinese environment.",
+    "keywords": [
+        "Traditional Chinese",
+        "webfont",
+        "font",
+        "cjk",
+        "sans",
+        "woff2"
+    ],
+    "homepage": "https://chiron-fonts.github.io",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chiron-fonts/chiron-hei-hk.git"
+    },
+    "author": "Tamcy",
+    "license": "OFL-1.1"
+}
