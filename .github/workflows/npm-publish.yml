@@ -1,0 +1,26 @@
+name: Node.js Package for webfont
+
+on:
+    release:
+        types: [ created ]
+    push:
+        tags:
+            - 'npm/*'
+
+defaults:
+    run:
+        working-directory: WEBFONT
+
+jobs:
+    publish-npm:
+        runs-on: ubuntu-latest
+        steps:
+            -   uses: actions/checkout@v2
+            -   uses: actions/setup-node@v1
+                with:
+                    node-version: 12
+                    registry-url: https://registry.npmjs.org/
+            -   run: mv npm-package-readme.md README.md
+            -   run: npm publish
+                env:
+                    NODE_AUTH_TOKEN: ${{secrets.npm_token}}

@@ -1,0 +1,5 @@
+.gitattributes export-ignore  
+.gitignore export-ignore
+.github/ export-ignore
+npm-package-readme.md export-ignore
+package.json export-ignore
