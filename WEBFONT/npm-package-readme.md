@@ -42,6 +42,7 @@ You can use the `font-weight` CSS property to set the desired boldness. The foll
 | Normal      | 350                     |
 | Regular     | 400                     |
 | Medium      | 500                     |
+| SemiBold    | 600                     |
 | Bold        | 700                     |
 | Heavy       | 900                     |
 
