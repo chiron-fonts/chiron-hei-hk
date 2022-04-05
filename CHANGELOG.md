@@ -1,3 +1,7 @@
+v2.500+1 (2022/04/05)
+====
+- 修正斜體 Regular 字重字型檔案的字體名稱。
+
 v2.500 (2022/04/04)
 ====
 - 正式發表「昭源黑體 (Chiron Hei HK)」，取代之前的「昭源黑體 (Chiron Sans HK)」和「昭源黑體 Pro (Chiron Sans HK Pro)」。
