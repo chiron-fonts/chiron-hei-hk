@@ -29,7 +29,7 @@ Finally, set the `font-family` property to `Chiron Hei HK WS`:
 
 ```css
 body {
-    font-family: "Chiron Hei HK WS", serif;
+    font-family: "Chiron Hei HK WS", sans-serif;
 }
 ```
 
