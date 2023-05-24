@@ -1,4 +1,4 @@
-Copyright 2022 Tamcy (https://github.com/chiron-fonts/chiron-hei-hk).
+Copyright 2023 Tamcy (https://github.com/chiron-fonts/chiron-hei-hk).
 
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1.
