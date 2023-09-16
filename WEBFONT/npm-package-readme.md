@@ -3,7 +3,7 @@ Chiron Hei HK Webfont
 
 ## About
 
-This package contains the webfont version of [Chiron Hei HK (昭源宋體)](https://github.com/chiron-fonts/chiron-hei-hk).
+This package contains the webfont version of [Chiron Hei HK (昭源黑體)](https://github.com/chiron-fonts/chiron-hei-hk).
 
 Chiron Hei HK is a CJK typeface derived from the Source Han Sans / Noto Sans CJK font family. It aims to provide a modern, region-agnostic glyph set adopting the “written” style that is similar to the prevailing, usually commercial, typefaces such that it is suitable for use in a Traditional Chinese environment.
 
@@ -54,7 +54,7 @@ p {
 }
 ```
 
-The valid range for this variable font axis is from 0 to 10. The value is 0 if unspecified.
+The PADG axis range is valid between 0 and 10. If unspecified, the default value is 0.”
 
 ## License
 
