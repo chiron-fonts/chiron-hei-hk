@@ -1,0 +1,161 @@
+# Normal, No Padding 
+
+[ChironHeiHK-ExtraLight]
+	f=Chiron Hei HK
+	s=ExtraLight
+	l=Chiron Hei HK EL
+
+[ChironHeiHK-Light]
+	f=Chiron Hei HK
+	s=Light
+	l=Chiron Hei HK L
+
+[ChironHeiHK-Normal]
+	f=Chiron Hei HK
+	s=Normal
+	l=Chiron Hei HK N
+
+[ChironHeiHK-Regular]
+	f=Chiron Hei HK
+	s=Regular
+
+[ChironHeiHK-Medium]
+	f=Chiron Hei HK
+	s=Medium
+	l=Chiron Hei HK M
+
+[ChironHeiHK-SemiBold]
+	f=Chiron Hei HK
+	s=SemiBold
+	l=Chiron Hei HK SB
+
+[ChironHeiHK-Bold]
+	f=Chiron Hei HK
+	s=Bold
+
+[ChironHeiHK-Heavy]
+	f=Chiron Hei HK
+	s=Heavy
+	l=Chiron Hei HK H
+
+# Normal, Small Print
+
+[ChironHeiHKSP-ExtraLight]
+	f=Chiron Hei HK Text
+	s=ExtraLight
+	l=Chiron Hei HK Text EL
+
+[ChironHeiHKSP-Light]
+	f=Chiron Hei HK Text
+	s=Light
+	l=Chiron Hei HK Text L
+
+[ChironHeiHKSP-Normal]
+	f=Chiron Hei HK Text
+	s=Normal
+	l=Chiron Hei HK Text N
+
+[ChironHeiHKSP-Regular]
+	f=Chiron Hei HK Text
+	s=Regular
+
+[ChironHeiHKSP-Medium]
+	f=Chiron Hei HK Text
+	s=Medium
+	l=Chiron Hei HK Text M
+
+[ChironHeiHKSP-SemiBold]
+	f=Chiron Hei HK Text
+	s=SemiBold
+	l=Chiron Hei HK Text SB
+
+[ChironHeiHKSP-Bold]
+	f=Chiron Hei HK Text
+	s=Bold
+
+[ChironHeiHKSP-Heavy]
+	f=Chiron Hei HK Text
+	s=Heavy
+	l=Chiron Hei HK Text H
+
+# ==================================
+
+# Italic, No Padding 
+
+[ChironHeiHK-ExtraLightIt]
+	f=Chiron Hei HK
+	s=ExtraLight Italic
+	l=Chiron Hei HK EL
+
+[ChironHeiHK-LightIt]
+	f=Chiron Hei HK
+	s=Light Italic
+	l=Chiron Hei HK L
+
+[ChironHeiHK-NormalIt]
+	f=Chiron Hei HK
+	s=Normal Italic
+	l=Chiron Hei HK N
+
+[ChironHeiHK-Italic]
+	f=Chiron Hei HK
+	s=Italic
+
+[ChironHeiHK-MediumIt]
+	f=Chiron Hei HK
+	s=Medium Italic
+	l=Chiron Hei HK M
+
+[ChironHeiHK-SemiBoldIt]
+	f=Chiron Hei HK
+	s=SemiBold Italic
+	l=Chiron Hei HK SB
+
+[ChironHeiHK-BoldIt]
+	f=Chiron Hei HK
+	s=Bold Italic
+
+[ChironHeiHK-HeavyIt]
+	f=Chiron Hei HK
+	s=Heavy Italic
+	l=Chiron Hei HK H
+
+# Italic, Text
+
+[ChironHeiHKSP-ExtraLightIt]
+	f=Chiron Hei HK Text
+	s=ExtraLight Italic
+	l=Chiron Hei HK Text EL
+
+[ChironHeiHKSP-LightIt]
+	f=Chiron Hei HK Text
+	s=Light Italic
+	l=Chiron Hei HK Text L
+
+[ChironHeiHKSP-NormalIt]
+	f=Chiron Hei HK Text
+	s=Normal Italic
+	l=Chiron Hei HK Text N
+
+[ChironHeiHKSP-Italic]
+	f=Chiron Hei HK Text
+	s=Italic
+
+[ChironHeiHKSP-MediumIt]
+	f=Chiron Hei HK Text
+	s=Medium Italic
+	l=Chiron Hei HK Text M
+
+[ChironHeiHKSP-SemiBoldIt]
+	f=Chiron Hei HK Text
+	s=SemiBold Italic
+	l=Chiron Hei HK Text SB
+
+[ChironHeiHKSP-BoldIt]
+	f=Chiron Hei HK Text
+	s=Bold Italic
+
+[ChironHeiHKSP-HeavyIt]
+	f=Chiron Hei HK Text
+	s=Heavy Italic
+	l=Chiron Hei HK Text H

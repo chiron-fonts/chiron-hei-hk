@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="3">
+    <axes>
+        <axis default="250.0" maximum="900.0" minimum="250.0" name="weight" tag="wght">
+            <map input="250" output="0"/>   <!-- ExtraLight -->
+            <map input="300" output="160"/> <!-- Light -->
+            <map input="350" output="320"/> <!-- Normal -->
+            <map input="400" output="390"/> <!-- Regular -->
+            <map input="500" output="560"/> <!-- Medium -->
+            <map input="600" output="670"/> <!-- SemiBold* -->
+            <map input="700" output="780"/> <!-- Bold -->
+            <map input="900" output="1000"/><!-- Heavy -->
+        </axis>
+        <axis default="0" maximum="10" minimum="0" name="padding" tag="PADG"/>
+    </axes>
+    <sources>
+        <source filename="ChironHeiHKVF-padding0_weight0-Master.otf" name="master_0">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+        </source>
+        <source filename="ChironHeiHKVF-padding0_weight390-Master.otf" name="master_1">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="390"/>
+            </location>
+        </source>
+        <source filename="ChironHeiHKVF-padding0_weight1000-Master.otf" name="master_3">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+        </source>
+        <source filename="ChironHeiHKVF-padding10_weight0-Master.otf">
+            <location>
+                <dimension name="padding" xvalue="10"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+        </source>
+        <source filename="ChironHeiHKVF-padding10_weight390-Master.otf">
+            <location>
+                <dimension name="padding" xvalue="10"/>
+                <dimension name="weight" xvalue="390"/>
+            </location>
+        </source>
+        <source filename="ChironHeiHKVF-padding10_weight1000-Master.otf">
+            <location>
+                <dimension name="padding" xvalue="10"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+        </source>        
+    </sources>
+    <instances>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-ExtraLight" stylename="ExtraLight">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-Light" stylename="Light">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="160"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-Normal" stylename="Normal">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="320"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-Regular" stylename="Regular">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="390"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-Medium" stylename="Medium">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="560"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="670"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-Bold" stylename="Bold">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="780"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-Heavy" stylename="Heavy">
+            <location>
+                <dimension name="padding" xvalue="0"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+
+        <!-- Text -->
+
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextExtraLight" stylename="Text ExtraLight">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="0"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextLight" stylename="Text Light">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="160"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextNormal" stylename="Text Normal">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="320"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextRegular" stylename="Text Regular">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="390"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextMedium" stylename="Text Medium">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="560"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextSemiBold" stylename="Text SemiBold">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="670"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextBold" stylename="Text Bold">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="780"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHKVF-TextHeavy" stylename="Text Heavy">
+            <location>
+                <dimension name="padding" xvalue="6"/>
+                <dimension name="weight" xvalue="1000"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+
+    </instances>
+</designspace>
