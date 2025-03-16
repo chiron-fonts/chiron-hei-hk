@@ -25,3 +25,10 @@ docker run --rm -it -v $(pwd):/source -v /path/to/build/output:/build chiron-hei
 
 Replace `/path/to/build/output`
 with the directory where you want the binary font files to be written to. On Windows, replace `$(pwd)` with `%cd%` (in Command Prompt) or `${PWD}` (in PowerShell).
+
+To build the Variable OTF for Google Fonts, run the following command:
+
+```bash 
+docker run --rm -it -v $(pwd):/source --entrypoint /source/bin/build_var_gf.sh chiron-hei-builder
+```
+
