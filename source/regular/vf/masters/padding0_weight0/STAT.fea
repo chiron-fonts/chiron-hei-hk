@@ -7,7 +7,7 @@ table STAT {
 	DesignAxis ital 2 { name "Italic"; };
 
     AxisValue {
-        location wght 250 250 299;
+        location wght 200 200 299;
         name "ExtraLight";
     };
 

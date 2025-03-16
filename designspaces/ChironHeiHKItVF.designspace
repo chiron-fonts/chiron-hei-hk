@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <designspace format="3">
     <axes>
-        <axis default="250.0" maximum="900.0" minimum="250.0" name="weight" tag="wght">
-            <map input="250" output="0"/>   <!-- ExtraLight -->
+        <axis default="200.0" maximum="900.0" minimum="200.0" name="weight" tag="wght">
+            <map input="200" output="0"/>   <!-- ExtraLight -->
             <map input="300" output="160"/> <!-- Light -->
             <map input="350" output="320"/> <!-- Normal -->
             <map input="400" output="390"/> <!-- Regular -->
@@ -14,7 +14,7 @@
         <axis default="0" maximum="10" minimum="0" name="padding" tag="PADG"/>
     </axes>
     <sources>
-        <source filename="ChironHeiHKVF-padding0_weight0-Master.otf" name="master_0">
+        <source filename="ChironHeiHKItVF-padding0_weight0-Master.otf" name="master_0">
             <lib copy="1"/>
             <groups copy="1"/>
             <info copy="1"/>
@@ -23,33 +23,32 @@
                 <dimension name="weight" xvalue="0"/>
             </location>
         </source>
-        <source filename="ChironHeiHKVF-padding0_weight390-Master.otf" name="master_1">
+        <source filename="ChironHeiHKItVF-padding0_weight390-Master.otf" name="master_1">
             <location>
                 <dimension name="padding" xvalue="0"/>
                 <dimension name="weight" xvalue="390"/>
             </location>
         </source>
-        <source filename="ChironHeiHKVF-padding0_weight1000-Master.otf" name="master_2">
+        <source filename="ChironHeiHKItVF-padding0_weight1000-Master.otf" name="master_2">
             <location>
                 <dimension name="padding" xvalue="0"/>
                 <dimension name="weight" xvalue="1000"/>
             </location>
         </source>
-        <source filename="ChironHeiHKVF-padding10_weight0-Master.otf">
+        <source filename="ChironHeiHKItVF-padding10_weight0-Master.otf">
             <location>
                 <dimension name="padding" xvalue="10"/>
                 <dimension name="weight" xvalue="0"/>
             </location>
         </source>
-
-        <source filename="ChironHeiHKVF-padding10_weight390-Master.otf">
+        <source filename="ChironHeiHKItVF-padding10_weight390-Master.otf">
             <location>
                 <dimension name="padding" xvalue="10"/>
                 <dimension name="weight" xvalue="390"/>
             </location>
         </source>
 
-        <source filename="ChironHeiHKVF-padding10_weight1000-Master.otf">
+        <source filename="ChironHeiHKItVF-padding10_weight1000-Master.otf">
             <location>
                 <dimension name="padding" xvalue="10"/>
                 <dimension name="weight" xvalue="1000"/>

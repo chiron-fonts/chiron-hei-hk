@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <designspace format="3">
     <axes>
-        <axis default="250.0" maximum="900.0" minimum="250.0" name="weight" tag="wght">
-            <map input="250" output="0"/>   <!-- ExtraLight -->
+        <axis default="200.0" maximum="900.0" minimum="200.0" name="weight" tag="wght">
+            <map input="200" output="0"/>   <!-- ExtraLight -->
             <map input="300" output="160"/> <!-- Light -->
             <map input="350" output="320"/> <!-- Normal -->
             <map input="400" output="390"/> <!-- Regular -->
