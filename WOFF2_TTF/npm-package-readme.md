@@ -48,11 +48,11 @@ body {
 
 You can use the `font-weight` CSS property to set the desired boldness. The following table shows the default static
 font weights and their corresponding `font-weight` values. As a variable font, you may also specify any value between
-250 and 900.
+200 and 900.
 
 | Font Weight | CSS `font-weight` value |
 |-------------|-------------------------|
-| ExtraLight  | 250                     |
+| ExtraLight  | 200                     |
 | Light       | 300                     |
 | Normal      | 350                     |
 | Regular     | 400                     |

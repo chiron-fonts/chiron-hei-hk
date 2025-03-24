@@ -51,7 +51,7 @@ Usage example:
 ```css
 body {
     font-family: "Chiron Hei HK WS"; /* Note the font name. */
-    font-weight: 310; /* Any number between 250 and 900. */
+    font-weight: 310; /* Any number between 200 and 900. */
     font-style: normal; /* normal or italic. */
     font-variation-settings: "PADG" 4; /* Any number between 0 and 10. */
 }
@@ -101,7 +101,7 @@ The static font families, Chiron Hei HK and Chiron Hei HK Text, use abbreviated 
 
 | Chiron Hei HK/HK Text | Chiron Hei HK VF | Weight Axis Value |
 |------------------------|-------------------|-------------------|
-| EL                     | ExtraLight        | 250               |
+| EL                     | ExtraLight        | 200               |
 | L                      | Light             | 300               |
 | N                      | Normal            | 350               |
 | R                      | Regular           | 400               |

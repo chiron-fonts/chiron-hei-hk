@@ -1,3 +1,9 @@
+v2.524 (2025/03/25)
+====
+- **注意**: 本版開始 Extralight 字重值將由 250 改為 200，不便之處敬請見諒。
+- 支援 𦧷 (U+269F7)（見於《粵典》）(chiron-fonts/chiron-hei-hk#22)。
+- 修正 circumflextilde.cap 及 circumflexmacron.cap。
+
 v2.523 (2025/01/23)
 ====
 - 修正 襯 (U+896F) 字形對映。
