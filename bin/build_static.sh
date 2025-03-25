@@ -33,7 +33,7 @@ build_static_otf() {
 
       FILENAME="${PREFIX}-${PADDING_NAMES[$PADDING]}${INSTANCE_FILENAMES[$WEIGHT]}${FILENAME_SUFFIX}"
 
-      CMD="makeotf -nshw -f ./source/$STYLE/static/masters/$DIR/cidfont.ps $FLAG_BOLD $FLAG_ITALIC -ff ./source/$STYLE/static/masters/$DIR/features.fea -fi ./source/$STYLE/static/masters/$DIR/cidfontinfo -mf ./source/$STYLE/static/FontMenuNameDB -r -nS -cs 2 -ch ./source/$STYLE/common/cmap -ci ./source/$STYLE/common/sequences.txt -o /tmp/${FILENAME}.otf"
+      CMD="makeotf -nshw -f ./source/$STYLE/static/masters/$DIR/cidfont.ps $FLAG_BOLD $FLAG_ITALIC -ff ./source/$STYLE/static/masters/$DIR/features.fea -fi ./source/$STYLE/static/masters/$DIR/cidfontinfo -mf ./source/$STYLE/static/FontMenuNameDB -r -cs 2 -ch ./source/$STYLE/common/cmap -ci ./source/$STYLE/common/sequences.txt -o /tmp/${FILENAME}.otf"
       echo "[STATIC OTF] (W=$WEIGHT,P=$PADDING) Building OTF: $CMD"
       $CMD
 
