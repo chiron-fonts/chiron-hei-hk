@@ -3,7 +3,7 @@ name: Publish woff2 npm package
 on:
     workflow_call:
         secrets:
-            npm_token:
+            NPM_TOKEN:
                 required: true
         inputs:
             directory:
@@ -30,4 +30,4 @@ jobs:
                     npm publish
                 working-directory: ${{inputs.directory}}
                 env:
-                    NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+                    NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
