@@ -173,7 +173,7 @@
         <instance familyname="ChironHeiHK" postscriptfontname="ChironHeiHK-TextExtraBold" stylename="Text ExtraBold">
             <location>
                 <dimension name="padding" xvalue="6"/>
-                <dimension name="weight" xvalue="780"/>
+                <dimension name="weight" xvalue="890"/>
             </location>
             <kerning/>
             <info/>
