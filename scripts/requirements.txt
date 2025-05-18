@@ -1,10 +1,11 @@
 afdko==4.0.1
 cu2qu==1.6.7.post1
-fontmake==3.4.0
-fonttools==4.52.1
-glyphsLib==6.1.0
-defcon==0.10.3
+#fontmake[json]>=3.3.0
+fonttools>=4.52.1
+glyphsLib>=6.1.0
+defcon>=0.10.3
 ufo-extractor==0.8.1
+gftools>=0.9.81
 #ufo2ft            2.28.0
 #ufoLib2           0.13.1
 #ufonormalizer     0.6.1
