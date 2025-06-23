@@ -1,0 +1,76 @@
+table STAT {
+
+    ElidedFallbackName { name "Italic"; };
+
+    DesignAxis wght 0 { name "Weight"; };
+    DesignAxis PADG 1 { name "Padding"; };
+	DesignAxis ital 2 { name "Italic"; };
+
+    AxisValue {
+        location wght 200 200 299;
+        name "ExtraLight";
+    };
+
+    AxisValue {
+        location wght 300 300 349;
+        name "Light";
+    };
+
+    AxisValue {
+        location wght 350 350 399;
+        name "Normal";
+    };
+
+    AxisValue {
+        location wght 400 400 499;
+        name "Regular";
+        flag ElidableAxisValueName;
+    };
+
+    AxisValue {
+        location wght 500 500 599;
+        name "Medium";
+    };
+
+    AxisValue {
+        location wght 600 600 699;
+        name "SemiBold";
+    };
+
+    AxisValue {
+        location wght 700 700 799;
+        name "Bold";
+    };
+
+    AxisValue {
+        location wght 900 800 900;
+        name "Heavy";
+    };
+
+    AxisValue {
+        location PADG 0 0 0;
+        name "Original";
+        flag ElidableAxisValueName;
+    };
+
+    AxisValue {
+        location PADG 1 1 5;
+        name "Small";
+    };
+
+    AxisValue {
+        location PADG 6 6 6;
+        name "Text";
+    };
+
+    AxisValue {
+        location PADG 7 7 10;
+        name "Larger";
+    };
+
+	AxisValue {
+		location ital 1 0;
+		name "Italic";
+	};
+} STAT;
+
