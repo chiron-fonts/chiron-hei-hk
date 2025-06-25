@@ -12,6 +12,12 @@ for file in SOURCE.glob("*.ufo"):
 	except:
 		print("*** NOTDEF RENAME FAILED ***")
 
+	font.info.openTypeVheaVertTypoAscender = 500
+	font.info.openTypeVheaVertTypoDescender = -500
+	font.info.openTypeVheaVertTypoLineGap = 500
+	for glyph in font:
+		glyph.height = 1000
+
 	if "It" in str(file) and "padding0_weight0" in str(file):
 		font.info.postscriptFontName = str(font.info.postscriptFontName).replace("It","Italic")
 		font.info.styleName = str(font.info.styleName).replace("It"," Italic")
