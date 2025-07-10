@@ -107,6 +107,7 @@ build_vf_gf() {
   python3 /tmp/gf_post.py $OUTPUT[PADG,wght].ttf
 
   ttx -m /tmp/$OUTPUT[wght].ttf /tmp/BASE.ttx -o /tmp/$OUTPUT[wght].ttf -f
+  gftools-gen-stat --src /tmp/STAT.yaml --inplace /tmp/$OUTPUT[wght].ttf
 
   echo "Moving files to the target directory..."
   mv /tmp/$OUTPUT[wght].ttf $CURRENT_DIR/build/VAR_GF/
@@ -127,6 +128,7 @@ cp ./scripts/gf_post.py /tmp
 cp ./scripts/gf_notdef.py /tmp
 cp ./scripts/config.yaml /tmp
 cp ./scripts/BASE.ttx /tmp
+cp ./scripts/STAT.yaml /tmp
 cp ./designspaces/ChironHeiHK.designspace /tmp/
 cp ./designspaces/ChironHeiHK-Italic.designspace /tmp/
 
