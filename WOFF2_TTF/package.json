@@ -1,6 +1,6 @@
 {
     "name": "chiron-hei-hk-webfont-truetype",
-    "version": "2.5.31",
+    "version": "2.5.33",
     "description": "Webfont version of Chiron Hei HK, in TrueType outline.",
     "keywords": [
         "Traditional Chinese",
@@ -10,13 +10,13 @@
         "sans",
         "woff2"
     ],
-    "homepage": "https:\/\/chiron-fonts.github.io",
+    "homepage": "https://chiron-fonts.github.io",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https:\/\/github.com\/chiron-fonts\/chiron-hei-hk.git"
+        "url": "git+https://github.com/chiron-fonts/chiron-hei-hk.git"
     },
     "author": "Tamcy",
     "license": "OFL-1.1"
