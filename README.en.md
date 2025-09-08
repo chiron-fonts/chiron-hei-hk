@@ -19,9 +19,10 @@ As this font is designed for Traditional Chinese users, the [website](https://ch
 
 Download the font from the [Github Releases](https://github.com/chiron-fonts/chiron-hei-hk/releases/latest) page and install it. The font comes with various configurations:
  
-* TrueType format, static instances (`TTF/` directory)
-* OpenType format, static instances (`OTF/` directory)
-* Variable Font in TrueType or OpenType format (`VAR/` directory)
+* TrueType format, static instances (`STATIC/TTF/` directory)
+* OpenType format, static instances (`STATIC/OTF/` directory)
+* Variable Font in OpenType format (`VAR_OTF/` directory)
+* Variable Font in TrueType format (`VAR_TTF/` directory)
 * Webfont version in OpenType WOFF2 format (`WOFF2_OTF/` directory)
 * Webfont version in TrueType WOFF2 format (`WOFF2_TTF/` directory)
 
@@ -63,7 +64,7 @@ Chiron Hei HK is based on the Traditional Chinese (Hong Kong) variant of Source 
 
 ### Glyph shapes
 
-![Alt text](images/diff-glyphs.png)
+![Alt text](images/diff-glyphs.webp)
 
 Glyphs of Big Five and HKSCS-2016 character sets for Source Han Sans Traditional Chinese (Hong Kong) are designed mostly in accordance with the [Reference Glyphs for Chinese Computer Systems in Hong Kong
 ](https://www.ccli.gov.hk/en/download/reference_glyphs.html). In my opinion it is a little too fastidious about asking the printed form of a character to follow how it is written by hand.
@@ -85,7 +86,7 @@ Chiron Hei HK covers all codepoints in the **language-specific** configuration o
 
 ### Character additions (Chinese)
 
-![Alt text](images/diff-additions.png)
+![Alt text](images/diff-additions.webp)
 
 Over a thousand Chinese character glyphs have been added, including amendments after the publishing of HKSCS-2016.
 
@@ -124,13 +125,13 @@ The value can be any integer between 0 and 10. 0 means zero decrement, and setti
 
 ### Additional “Text” subfamily
 
-![Alt text](images/diff-text.png)
+![Alt text](images/diff-text.webp)
 
 The “Text” subfamily is created by converting variable font instances with the `PADG` axis set to 6 into static instances. By moderately shrinking the Han/Kanji characters, the “Text” subfamily provides more space between Chinese characters, making it suitable for body text typesetting.
 
 ### Glyph optimization for Regular instance
 
-![Alt text](images/diff-master.png)
+![Alt text](images/diff-master.webp)
 
 Regular master has been added to a small number of frequently accessed characters.
 
