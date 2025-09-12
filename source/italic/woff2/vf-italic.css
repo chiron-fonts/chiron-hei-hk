@@ -1,7 +1,7 @@
 /**
  * Font family: Chiron Hei HK WS, generated from Chiron Hei HK
- * Version: 2.531
- * Build time: 2025-08-24 18:40:56
+ * Version: 2.602
+ * Build time: 2025-09-12 00:21:22
  */
 /* [t0/lgc] (1618) */
 @font-face {
@@ -1290,12 +1290,12 @@
   src: url('../woff2/vf-italic/t2/cw_3.woff2') format('woff2-variations'), url('../woff2/vf-italic/t2/cw_3.woff2') format('woff2 supports variations');
   unicode-range: U+321b9, U+322a6, U+322df;
 }
-/* [t2/nc] (228) */
+/* [t2/nc] (234) */
 @font-face {
   font-family: 'Chiron Hei HK WS';
   font-style: italic;
   font-weight: 200 900;
   font-display: swap;
   src: url('../woff2/vf-italic/t2/nc.woff2') format('woff2-variations'), url('../woff2/vf-italic/t2/nc.woff2') format('woff2 supports variations');
-  unicode-range: U+20027, U+2008e, U+2025e, U+2029b, U+20412, U+206ab, U+20afe, U+20b20, U+20c4a, U+20c79, U+20c7e, U+20cf9, U+20d08, U+20d1d, U+20d25, U+20d69, U+20da5, U+20dff, U+20e01, U+20e9c, U+20ebd, U+20ef4, U+20f17, U+20f33, U+20f52, U+20ffc, U+2100e, U+2101f-21020, U+21023, U+21032, U+210aa, U+2110e, U+211bb, U+21386, U+21616, U+216b3, U+217be, U+217ce, U+21913, U+21a97, U+21b67, U+21d36, U+2201b, U+2239e, U+22596, U+2265d, U+228bd, U+22ac1, U+22ad3, U+22b72, U+22c4b, U+22e18, U+22f52, U+231fb, U+2321c, U+23350, U+2338f, U+2348d, U+235fa, U+238c4, U+23b20, U+23b36, U+23b48, U+23c08, U+23c46, U+23cab, U+23f78, U+241aa, U+247f9, U+24920, U+24abd, U+24c19, U+25037, U+25232, U+2528d, U+2546a, U+25945, U+25d42, U+25d5a, U+25eda, U+25f55, U+26007, U+260af, U+26694, U+266ee, U+269f7, U+26e47, U+2725a, U+272b5, U+273d9, U+276ca, U+276f1, U+27cfd, U+27d9a, U+27fbc, U+28193, U+28201, U+284cf, U+284da, U+2882f, U+28cea, U+28dfa, U+29544, U+2976f, U+298d4, U+29bbb, U+2a159, U+2a507, U+2a756, U+2a814, U+2a871, U+2a966, U+2ad72, U+2aed5, U+2afbc, U+2afe2, U+2b226, U+2b2ab, U+2b2f3, U+2b4a2, U+2b739, U+2b75e, U+2b7ca, U+2b9f6, U+2ba66, U+2ba7e, U+2ba8c-2ba8d, U+2baa2, U+2baac, U+2bab4, U+2bac8, U+2baca-2bacb, U+2badc, U+2bae8, U+2baf2, U+2bafc, U+2bb07, U+2bb12, U+2bb16, U+2bb1b, U+2bb25, U+2bb28, U+2bb40, U+2bb96, U+2bcad, U+2bf38, U+2c4f5, U+2c603, U+2c8bf, U+2c9ca, U+2c9df, U+2d000, U+2d213, U+2d216, U+2d219, U+2d22b, U+2d23b, U+2d291, U+2d480, U+2d7fc, U+2d85a, U+2d881, U+2d914, U+2db7e, U+2dc01, U+2dd74, U+2e155, U+2e214, U+2e617, U+2ea74, U+2ea78, U+2ed7d, U+2f867, U+2f8b1, U+2f8be, U+2f8fe, U+2f936, U+3002a, U+301ec, U+30222, U+3050e, U+3052b, U+3054b, U+30654, U+3065c, U+30ba4, U+30fe1, U+31350, U+314f8, U+31566, U+31604, U+31671, U+316b6, U+31df3, U+31f6b, U+320f4, U+32402, U+3250e, U+3253f, U+32551, U+3256e, U+32582-32583, U+3258c, U+3259c, U+325aa, U+325c5, U+325e7, U+325ef, U+32735, U+32776, U+328c4, U+328d9, U+329d6, U+32a3f, U+32b2a, U+32c87, U+32e8b, U+32e98, U+32fee, U+330a4, U+332a6, U+33332, U+33419, U+3345c;
+  unicode-range: U+20027, U+2008e, U+2025e, U+2029b, U+20412, U+206ab, U+20afe, U+20b20, U+20c4a, U+20c79, U+20c7e, U+20cf9, U+20d08, U+20d1d, U+20d25, U+20d69, U+20da5, U+20dff, U+20e01, U+20e9c, U+20ebd, U+20ef4, U+20f17, U+20f33, U+20f52, U+20ffc, U+2100e, U+2101f-21020, U+21023, U+21032, U+210aa, U+2110e, U+211bb, U+21386, U+21616, U+216b3, U+217be, U+217ce, U+21913, U+21a97, U+21b67, U+21d36, U+2201b, U+2239e, U+22596, U+2265d, U+228bd, U+22ac1, U+22ad3, U+22b72, U+22c4b, U+22e18, U+22f52, U+231fb, U+2321c, U+23350, U+2338f, U+2348d, U+235fa, U+238c4, U+23b20, U+23b36, U+23b48, U+23c08, U+23c46, U+23cab, U+23f78, U+241aa, U+247f9, U+24920, U+24abd, U+24c19, U+25037, U+25232, U+2528d, U+2546a, U+25945, U+25d42, U+25d5a, U+25eda, U+25f55, U+26007, U+260af, U+26694, U+266ee, U+269f7, U+26e47, U+2725a, U+272b5, U+273d9, U+276ca, U+276f1, U+27cfd, U+27d9a, U+27fbc, U+28193, U+28201, U+284cf, U+284da, U+2882f, U+28cea, U+28dfa, U+29544, U+2976f, U+298d4, U+29bbb, U+2a159, U+2a507, U+2a756, U+2a814, U+2a871, U+2a966, U+2ad72, U+2aed5, U+2afbc, U+2afe2, U+2b226, U+2b2ab, U+2b2f3, U+2b4a2, U+2b739, U+2b75e, U+2b7ca, U+2b9f6, U+2ba66, U+2ba7e, U+2ba8c-2ba8d, U+2baa2, U+2baac, U+2bab4, U+2bac8, U+2baca-2bacb, U+2badc, U+2bae8, U+2baf2, U+2bafc, U+2bb07, U+2bb12, U+2bb16, U+2bb1b, U+2bb25, U+2bb28, U+2bb3f-2bb40, U+2bb4a, U+2bb96, U+2bcad, U+2bf38, U+2c4f5, U+2c603, U+2c710, U+2c8bf, U+2c9ca, U+2c9df, U+2d000, U+2d213, U+2d216, U+2d219, U+2d22b, U+2d23b, U+2d291, U+2d480, U+2d7fc, U+2d85a, U+2d881, U+2d914, U+2db7e, U+2dc01, U+2dd74, U+2e155, U+2e214, U+2e617, U+2ea74, U+2ea78, U+2ed7d, U+2f867, U+2f8b1, U+2f8be, U+2f8fe, U+2f936, U+3002a, U+301ec, U+30222, U+3050e, U+3052b, U+3054b, U+30654, U+3065c, U+30ba4, U+30fe1, U+31350, U+314f8, U+3150d, U+31566, U+31604, U+31671, U+316b6, U+31df3, U+31f6b, U+320f4, U+32402, U+3250e, U+3253f, U+32551, U+3256e, U+32582-32583, U+3258c, U+3259c, U+325aa, U+325c5, U+325e7, U+325ef, U+32735, U+32776, U+328c4, U+328d9, U+329d6, U+32a3f, U+32b2a-32b2b, U+32c87, U+32cd1, U+32e8b, U+32e98, U+32fee, U+330a4, U+332a6, U+33332, U+33419, U+3345c;
 }
