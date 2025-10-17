@@ -307,7 +307,7 @@ languagesystem cyrl SRB; # Serbian
 ## > Remote Merge End: Glyph Classes <
 
 table head {
-  FontRevision 2.603;
+  FontRevision 2.604;
 } head;
 
 table hhea {
@@ -15084,6 +15084,7 @@ lookup HAN_STANDARDIZE {
   substitute \43331 by \43359;
   substitute \11435 by \11234;
   substitute \11175 by \11174;
+  substitute \24040 by \24556;
   substitute \11820 by \17026;
   substitute \11841 by \17084;
   substitute \29684 by \38631;
@@ -15092,7 +15093,6 @@ lookup HAN_STANDARDIZE {
   substitute \11212 by \11424;
   substitute \11210 by \11424;
   substitute \41496 by \41335;
-  substitute \33956 by \34092;
   substitute \62164 by \27212;
   substitute \24615 by \42955;
 } HAN_STANDARDIZE;
