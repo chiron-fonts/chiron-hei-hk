@@ -2,14 +2,14 @@ name: Publish woff2 npm package
 
 on:
     workflow_call:
-        secrets:
-            NPM_TOKEN:
-                required: true
         inputs:
             directory:
                 description: 'Directory'
                 type: string
                 required: true
+
+permissions:
+    id-token: write  # Required for OIDC
 
 jobs:
     build:
@@ -23,11 +23,12 @@ jobs:
                     DIRECTORY: ${{inputs.directory}}
             -   uses: actions/setup-node@v4
                 with:
-                    node-version: 'lts/*'
+                    node-version: '20'
                     registry-url: https://registry.npmjs.org/
+            # Ensure npm 11.5.1 or later is installed for trusted publishing
+            -   name: Update npm
+                run: npm install -g npm@latest
             -   run: |
                     mv npm-package-readme.md README.md
                     npm publish
                 working-directory: ${{inputs.directory}}
-                env:
-                    NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
