@@ -5330,7 +5330,7 @@
         }
     },
     "cjkRedesignsTC": {
-        "count": 3301,
+        "count": 3302,
         "details": {
             "U+3493": {
                 "cid": 2610
@@ -5700,6 +5700,9 @@
             },
             "U+513C": {
                 "cid": 10851
+            },
+            "U+514B": {
+                "cid": 10874
             },
             "U+5169": {
                 "cid": 12774
@@ -15238,7 +15241,7 @@
         }
     },
     "cjkRemapsTC": {
-        "count": 2450,
+        "count": 2449,
         "details": {
             "U+344A": {
                 "cid": 2530,
@@ -24583,10 +24586,6 @@
             "U+9BA8": {
                 "cid": 45670,
                 "glyph": "uni9BA8-JP"
-            },
-            "U+9BC0": {
-                "cid": 45706,
-                "glyph": "uni9BC0-CN"
             },
             "U+9BDA": {
                 "cid": 45742,
@@ -37426,7 +37425,7 @@
                 "glyph": "one.sups"
             },
             "U+00BA": {
-                "cid": 45707,
+                "cid": 45706,
                 "glyph": "ordmasculine"
             },
             "U+00BB": {
