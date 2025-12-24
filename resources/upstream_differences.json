@@ -32016,7 +32016,7 @@
         }
     },
     "cjkRemapsNonTC": {
-        "count": 191,
+        "count": 192,
         "details": {
             "U+2018": {
                 "cid": 44330,
@@ -32761,6 +32761,10 @@
             "U+1F21A": {
                 "cid": 59409,
                 "glyph": "u1F21A-JP"
+            },
+            "U+1F22B": {
+                "cid": 59439,
+                "glyph": "u1F22B-JP"
             },
             "U+1F22F": {
                 "cid": 59445,
