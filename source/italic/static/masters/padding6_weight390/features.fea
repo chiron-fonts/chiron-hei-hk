@@ -307,7 +307,7 @@ languagesystem cyrl SRB; # Serbian
 ## > Remote Merge End: Glyph Classes <
 
 table head {
-  FontRevision 2.604;
+  FontRevision 2.605;
 } head;
 
 table hhea {

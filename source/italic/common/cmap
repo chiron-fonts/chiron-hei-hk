@@ -3,7 +3,7 @@
 %%IncludeResource: ProcSet (CIDInit)
 %%BeginResource: CMap (UniSourceHanSansHK-UTF32-H)
 %%Title: (UniSourceHanSansHK-UTF32-H Adobe Identity 0)
-%%Version: 2.604
+%%Version: 2.605
 %%Copyright: -----------------------------------------------------------
 %%Copyright: Copyright 1990-2025 Adobe. All rights reserved.
 %%Copyright:
@@ -18182,8 +18182,8 @@ endcidrange
 <0001f219> <0001f21a> 59408
 <0001f221> <0001f222> 59426
 <0001f223> <0001f225> 59429
-<0001f227> <0001f22a> 59435
-<0001f22b> <0001f22f> 59441
+<0001f227> <0001f22b> 59435
+<0001f22c> <0001f22f> 59442
 <0001f230> <0001f232> 59447
 <0001f233> <0001f234> 59453
 <0001f235> <0001f236> 59458

@@ -228257,7 +228257,8 @@
     },
     {
         "cid": 59439,
-        "glyphName": "u1F22B_JP"
+        "glyphName": "u1F22B",
+        "codepoint": "1F22B"
     },
     {
         "cid": 59440,
@@ -228265,8 +228266,7 @@
     },
     {
         "cid": 59441,
-        "glyphName": "u1F22B",
-        "codepoint": "1F22B"
+        "glyphName": "u1F22B_TW"
     },
     {
         "cid": 59442,
