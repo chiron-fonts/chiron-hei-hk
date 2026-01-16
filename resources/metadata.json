@@ -1,12 +1,12 @@
 {
     "family": "Chiron Hei HK",
-    "version": "2.605",
+    "version": "2.606",
     "upstream": {
         "name": "Source Han Sans",
         "version": 2.005
     },
     "upstreamDifferences": {
-        "cjkAdditions": 1775,
+        "cjkAdditions": 1794,
         "cjkRedesignsTC": 3302,
         "cjkRemapsTC": 2449,
         "cjkRedesignsNonTC": 2323,
@@ -16,6 +16,6 @@
         "lgcRemaps": 18
     },
     "webfont": {
-        "count": 33259
+        "count": 33278
     }
 }
