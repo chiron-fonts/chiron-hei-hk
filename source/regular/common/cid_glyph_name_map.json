@@ -65025,9 +65025,19 @@
         "codepoint": "56C8"
     },
     {
+        "cid": 13126,
+        "glyphName": "u2009D",
+        "codepoint": "2009D"
+    },
+    {
         "cid": 13127,
         "glyphName": "uni56C9",
         "codepoint": "56C9"
+    },
+    {
+        "cid": 13128,
+        "glyphName": "u20FD1",
+        "codepoint": "20FD1"
     },
     {
         "cid": 13129,
@@ -65035,9 +65045,19 @@
         "codepoint": "56CA"
     },
     {
+        "cid": 13130,
+        "glyphName": "u22662",
+        "codepoint": "22662"
+    },
+    {
         "cid": 13131,
         "glyphName": "uni56CB",
         "codepoint": "56CB"
+    },
+    {
+        "cid": 13132,
+        "glyphName": "u22C3E",
+        "codepoint": "22C3E"
     },
     {
         "cid": 13133,
@@ -65050,6 +65070,11 @@
         "codepoint": "56CD"
     },
     {
+        "cid": 13135,
+        "glyphName": "u2353C",
+        "codepoint": "2353C"
+    },
+    {
         "cid": 13136,
         "glyphName": "uni56CE",
         "codepoint": "56CE"
@@ -65058,6 +65083,11 @@
         "cid": 13137,
         "glyphName": "uni56CF",
         "codepoint": "56CF"
+    },
+    {
+        "cid": 13138,
+        "glyphName": "u23CE8",
+        "codepoint": "23CE8"
     },
     {
         "cid": 13139,
@@ -65070,9 +65100,24 @@
         "codepoint": "56D1"
     },
     {
+        "cid": 13141,
+        "glyphName": "u2456D",
+        "codepoint": "2456D"
+    },
+    {
         "cid": 13142,
         "glyphName": "uni56D2",
         "codepoint": "56D2"
+    },
+    {
+        "cid": 13143,
+        "glyphName": "u25040",
+        "codepoint": "25040"
+    },
+    {
+        "cid": 13144,
+        "glyphName": "u254D2",
+        "codepoint": "254D2"
     },
     {
         "cid": 13145,
@@ -65095,6 +65140,11 @@
         "codepoint": "56D6"
     },
     {
+        "cid": 13149,
+        "glyphName": "u25EDF",
+        "codepoint": "25EDF"
+    },
+    {
         "cid": 13150,
         "glyphName": "uni56D7",
         "codepoint": "56D7"
@@ -65110,9 +65160,19 @@
         "codepoint": "56D9"
     },
     {
+        "cid": 13153,
+        "glyphName": "u27DB6",
+        "codepoint": "27DB6"
+    },
+    {
         "cid": 13154,
         "glyphName": "uni56DA",
         "codepoint": "56DA"
+    },
+    {
+        "cid": 13155,
+        "glyphName": "u27E1C",
+        "codepoint": "27E1C"
     },
     {
         "cid": 13156,
@@ -65120,9 +65180,19 @@
         "codepoint": "56DB"
     },
     {
+        "cid": 13157,
+        "glyphName": "u28459",
+        "codepoint": "28459"
+    },
+    {
         "cid": 13158,
         "glyphName": "uni56DC",
         "codepoint": "56DC"
+    },
+    {
+        "cid": 13159,
+        "glyphName": "u28E2C",
+        "codepoint": "28E2C"
     },
     {
         "cid": 13160,
@@ -65140,14 +65210,34 @@
         "codepoint": "56DF"
     },
     {
+        "cid": 13163,
+        "glyphName": "u2BB36",
+        "codepoint": "2BB36"
+    },
+    {
+        "cid": 13164,
+        "glyphName": "u2DCFF",
+        "codepoint": "2DCFF"
+    },
+    {
         "cid": 13165,
         "glyphName": "uni56E0",
         "codepoint": "56E0"
     },
     {
+        "cid": 13166,
+        "glyphName": "u3053A",
+        "codepoint": "3053A"
+    },
+    {
         "cid": 13167,
         "glyphName": "uni56E1",
         "codepoint": "56E1"
+    },
+    {
+        "cid": 13168,
+        "glyphName": "u3288A",
+        "codepoint": "3288A"
     },
     {
         "cid": 13169,
@@ -65160,9 +65250,19 @@
         "codepoint": "56E3"
     },
     {
+        "cid": 13171,
+        "glyphName": "u328C8",
+        "codepoint": "328C8"
+    },
+    {
         "cid": 13172,
         "glyphName": "uni56E4",
         "codepoint": "56E4"
+    },
+    {
+        "cid": 13173,
+        "glyphName": "u328DA",
+        "codepoint": "328DA"
     },
     {
         "cid": 13174,
@@ -65173,6 +65273,11 @@
         "cid": 13175,
         "glyphName": "uni56E6",
         "codepoint": "56E6"
+    },
+    {
+        "cid": 13176,
+        "glyphName": "u33117",
+        "codepoint": "33117"
     },
     {
         "cid": 13179,
