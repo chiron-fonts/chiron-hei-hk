@@ -27,6 +27,11 @@
 
 昭源黑體採用 SIL Open Font License, 版本 1.1 授權。詳情請參閲 [LICENSE.md](LICENSE.md) 檔（只提供英文版本）。
 
+## 昭源系列其他字體
+
+- [昭源宋體](https://github.com/chiron-fonts/chiron-sung-hk)
+- [昭源環方](https://github.com/chiron-fonts/chiron-go-round-tc)
+
 ## 贊助
 
 昭源黑體屬個人開發的字型產品，完全免費。假如滿意我在「昭源黑體」所做的工作，而想表達心意或支持，[歡迎通過 Paypal.me 捐助本人](https://www.paypal.com/paypalme/tamcyhk)，金額不拘，先此致謝。

@@ -9,7 +9,7 @@ Chiron Hei HK (昭源黑體) is a Traditional Chinese sans-serif typeface based 
 
 In Chiron Hei HK, glyph shapes in Source Han Sans Traditional Chinese (Hong Kong) are reviewed and adjusted for the better display effect on screen and in print. The font takes references from the glyph shapes of typefaces commonly seen in daily life to provide a set of regional agnostic, modern-style glyphs that balance standard glyph shapes and the usual stroke forms of printed typefaces. The glyph set is similar to the prevailing, usually commercial, typefaces in the Traditional Chinese communities. 
 
-Also check out [Chiron Sung HK](https://github.com/chiron-fonts/chiron-sung-hk/), the complementary serif typeface for Chiron Hei HK.
+Also check out [Chiron Sung HK](https://github.com/chiron-fonts/chiron-sung-hk/), the complementary serif typeface for Chiron Hei HK. There is also [Chiron GoRound TC](https://github.com/chiron-fonts/chiron-go-round-tc) if you prefer a rounded style.
 
 As this font is designed for Traditional Chinese users, the [website](https://chiron-fonts.github.io/) and the [CHANGELOG](CHANGELOG.md) details are available in Chinese only. This README provides an introductory guide to the font’s features and usage in English. 
 
